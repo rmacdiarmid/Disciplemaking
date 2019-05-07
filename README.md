@@ -1,28 +1,32 @@
 ![DMCOHORT](http://jackasstheology.com/wp-content/uploads/2019/05/DMcohor_BLK.png)
 
-You can use the [editor on GitHub](https://github.com/rmacdiarmid/dmcohort/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 # Cohort Description
+Conferences ignite ideas, but afterwards you are left on your own to implement the ideas. In the cohort model, you walk with practicioners as you learn and develop tools that fit your church, your leaders. THe part that is invaluable are the relationships you build. The cohort is a combination of in person get togethers, and video training. 
 
+# The Environment
+When we gather we are committed to fun, homey, environmont. 
 
 
 # Travel Dates
-```markdown
-- October 16-17, 2019 (Minneappolis, MN)
-- May 6-8, 2020 (San Antonio, TX)
-```
 
+```markdown
+## October 16-17, 2019 
+### Minneappolis, MN
+We will be gathering in a large house. Training, hanging out, doing meals together in the city. Telling stories, etc. 
+
+## May 6-8, 2020 
+### San Antonio, TX
+In texas we will stay on a beutiful ranch. We will play pickle ball, shoot guns, sit around a firepit, and do some training. Here we will finish up our sesssions, talk about next steps, celerate what God is doing and encourage each other into life beyond the COHORT.
+```
 # Virtual Training
 
 ```markdown
-Nov 7 - Thursday 3pm CST
-Dec 05 Thursday, 3:00-5:00pm 
-Jan 9 Thursday, 3:00-5:00pm 
-Feb 6 Thursday, 3:00-5:00pm 
-March 5 Thursday, 3:00-5:00pm 
-April 9 Thursday, 3:00-5:00pm 
+- Nov 7, Thursday 3:00-5:00pm
+- Dec 05, Thursday, 3:00-5:00pm 
+- Jan 9, Thursday, 3:00-5:00pm 
+- Feb 6, Thursday, 3:00-5:00pm 
+- March 5, Thursday, 3:00-5:00pm 
+- April 9, Thursday, 3:00-5:00pm 
 ```
 
 # Intrest List
@@ -39,6 +43,24 @@ Ryan is the lead pastor of [Creekside Church](https://www.creeksideonline.com) i
 
 ## West Brazelton
 West is the planting pastor of [Grace Bible Church](https://www.gbchouston.org/) (GBC) in Houston, Texas. GBC is 15 years old and has developed a small group model that has been effective in equipping participants to make disciples. The church currently has 1500 people participating in these disciple making small groups. West has also been a leader in the Bonhoeffer Project, which is a network of cohorts created by Bill Hull. These cohorts are designed to help pastors develop churches that effectively make disciple and multiply disciples of Jesus. 
+
+
+# Testimonials
+
+## Some Dude
+
+## Some Dudette
+
+
+
+
+-------------------------
+
+
+
+You can use the [editor on GitHub](https://github.com/rmacdiarmid/dmcohort/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 
 ### Markdown
