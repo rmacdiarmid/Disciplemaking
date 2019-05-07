@@ -14,14 +14,15 @@ When we gather we are committed to fun, homey, environmont.
 ### Minneappolis, MN
 We will be gathering in a large house. Training, hanging out, doing meals together in the city. Telling stories, etc. 
 
-![MN House](https://odis.homeaway.com/odis/listing/19a58545-f914-4d34-81a7-ced829da4e68.f10.jpg)
+<img src="https://odis.homeaway.com/odis/listing/19a58545-f914-4d34-81a7-ced829da4e68.f10.jpg" width="50%">
 
 
 ## May 6-8, 2020 
 ### San Antonio, TX
 In texas we will stay on a beutiful ranch. We will play pickle ball, shoot guns, sit around a firepit, and do some training. Here we will finish up our sesssions, talk about next steps, celerate what God is doing and encourage each other into life beyond the COHORT.
 
-![TX Ranch](http://jackasstheology.com/wp-content/uploads/2019/05/2019-01-16-07.40.43-e1557209934345.jpg)
+<img src="http://jackasstheology.com/wp-content/uploads/2019/05/2019-01-16-07.40.43-e1557209934345.jpg" width="50%">
+
 
 # Virtual Training
 
