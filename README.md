@@ -1,12 +1,10 @@
 
 # DMCOHORTING
-![DMCOHORT](http://jackasstheology.com/wp-content/uploads/2019/05/DMcohort_WT.png)
+![DMCOHORT](http://jackasstheology.com/wp-content/uploads/2019/05/DMcohor_BLK.png)
 
 You can use the [editor on GitHub](https://github.com/rmacdiarmid/dmcohort/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-![DMcohort](http://jackasstheology.com/wp-content/uploads/2019/05/dmcohort_1280.jpg)
 
 
 ### Markdown
