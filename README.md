@@ -4,6 +4,27 @@ You can use the [editor on GitHub](https://github.com/rmacdiarmid/dmcohort/edit/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+# Cohort Description
+
+
+
+# Travel Dates
+```markdown
+- October 16-17, 2019 (Minneappolis, MN)
+- May 6-8, 2020 (San Antonio, TX)
+```
+
+# Virtual Training
+
+```markdown
+Nov 7 - Thursday 3pm CST
+Dec 05 Thursday, 3:00-5:00pm 
+Jan 9 Thursday, 3:00-5:00pm 
+Feb 6 Thursday, 3:00-5:00pm 
+March 5 Thursday, 3:00-5:00pm 
+April 9 Thursday, 3:00-5:00pm 
+```
+
 # Intrest List
 If you are interested in the cohort and would like more information. [Click here.](www.jackasstheology.com)
 
