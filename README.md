@@ -44,3 +44,5 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 ![EFCA LOGO](http://jackasstheology.com/wp-content/uploads/2019/05/EFCA_LOGO.png width=100)
 
 ![test image size](http://jackasstheology.com/wp-content/uploads/2019/05/EFCA_LOGO.png){:height="50%" width="50%"}
+
+<img src="http://jackasstheology.com/wp-content/uploads/2019/05/EFCA_LOGO.png" width="400" height="790">
