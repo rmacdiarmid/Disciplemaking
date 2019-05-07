@@ -1,4 +1,3 @@
-
 ![DMCOHORT](http://jackasstheology.com/wp-content/uploads/2019/05/DMcohor_BLK.png)
 
 You can use the [editor on GitHub](https://github.com/rmacdiarmid/dmcohort/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
