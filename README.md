@@ -1,10 +1,16 @@
 ![DMCOHORT](http://jackasstheology.com/wp-content/uploads/2019/05/DMcohor_BLK.png)
 
-# Cohort Description
-Conferences ignite ideas, but afterwards you are left on your own to implement the ideas. In the cohort model, you walk with practicioners as you learn and develop tools that fit your church, your leaders. THe part that is invaluable are the relationships you build. The cohort is a combination of in person get togethers, and video training. 
+# Cohorts Are More Helpful Than Conferences
+As a leadership team we have participated in dozens of conferences. The best ones bring challenging ideas, excitement, and inspiration. The conferences attract expceptional leaders and thinkers, whose churches tend to be in the thousands and whose platforms tend can be in the millions. While all this is impressive. We have personally found that it isn't as lastiningly helpful as building on going relationships with leaders who are struggling to implement real disciplemaking tools into their everyday context. There is no one size fits all plan. Every context is different, and every ministry commissioned to unique expressions. But we all need accountability, we all need to get unstuck, we all need a push to develop our systems so that we do not simply resort to preaching centers, but actually become disciplemaking movements. It's not easy. No one can do the work for you, but we can process it together. That is what is different about the Cohort Model. From it, you get relationships, friends, commrades and tools that will shift the core of your ministry.
+
+# Why is Disciplemaking so Hard?
+Disciplemaking is hard because it isn't actually what people in your congregation want to do by default. Most who read the bible, know that they should do it. They know that they should do evangelism. But should's are not great motivators. What drives everyone more is what the WANT. I have found (especially in a Suburban context) that what people want is friends with Christian morals,  helpful and relevant bible teaching, to have their kids meet jesus, have their kids have friends who love Jesus. Sometimes, you can add to that list, altruism, as sense of serving and helping the poor. Rarely on that priority list do I find an inherent desire to make disciples who make disciples, or sharing the gospel with people who live around them.
+
+## What do we do?
+We can throw our hands up and say, the people are the problem. Or we can do as Paul models so brillantly, we can work with the culture instead of against it. The goal isn't to shame people into disciplemaking, the goal is the invite people into disciplemaking and systmaticaly shift their perspective and ours from TEACHING methods to TRAINING methods. We can do that together, and have fun doing it.
 
 # The Environment
-When we gather we are committed to fun, homey, environmont. 
+FUN. CHALLENGING. The DMcohorts are comprised of TWO in person travel sessions and SEVEN virtual sessions. When we travel, we will meet in a home environment. The focus will be on building relationships, learning about each others ministrys, diving into evalutive questions. Our virtual time will be dynamic as well, we will train, we will do virtual breakout groups, we will share our progress and wrestle throughh questions. Thanks to Zoom's video conference capabilities very little of the training will be hindered by the virtual environment. We will only miss the beers together after. 
 
 
 # Travel Dates
