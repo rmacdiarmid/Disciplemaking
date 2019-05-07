@@ -4,9 +4,8 @@ You can use the [editor on GitHub](https://github.com/rmacdiarmid/dmcohort/edit/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-![UpsplashIMG](https://images.unsplash.com/photo-1553531889-e6cf4d692b1b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2100&q=80)
+![DMcohort](http://jackasstheology.com/wp-content/uploads/2019/05/dmcohort_1280.jpg)
 
-![UpsplashIMG](.images/dmcohort_1280.jpg)
 
 ### Markdown
 
