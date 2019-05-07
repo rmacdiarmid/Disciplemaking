@@ -22,7 +22,7 @@ In texas we will stay on a beutiful ranch. We will play pickle ball, shoot guns,
 
 ```markdown
 - Nov 7, Thursday 3:00-5:00pm
-- Dec 05, Thursday, 3:00-5:00pm 
+- Dec 5, Thursday, 3:00-5:00pm 
 - Jan 9, Thursday, 3:00-5:00pm 
 - Feb 6, Thursday, 3:00-5:00pm 
 - March 5, Thursday, 3:00-5:00pm 
