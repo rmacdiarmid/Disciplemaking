@@ -4,6 +4,10 @@ You can use the [editor on GitHub](https://github.com/rmacdiarmid/dmcohort/edit/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+# Interest List
+If you are interested in the cohort and would like more information. [Click here.](www.jackasstheology.com)
+
+
 
 ### Markdown
 
