@@ -9,7 +9,7 @@ When we gather we are committed to fun, homey, environmont.
 
 # Travel Dates
 
-```markdown
+
 ## October 16-17, 2019 
 ### Minneappolis, MN
 We will be gathering in a large house. Training, hanging out, doing meals together in the city. Telling stories, etc. 
@@ -17,7 +17,7 @@ We will be gathering in a large house. Training, hanging out, doing meals togeth
 ## May 6-8, 2020 
 ### San Antonio, TX
 In texas we will stay on a beutiful ranch. We will play pickle ball, shoot guns, sit around a firepit, and do some training. Here we will finish up our sesssions, talk about next steps, celerate what God is doing and encourage each other into life beyond the COHORT.
-```
+
 # Virtual Training
 
 ```markdown
