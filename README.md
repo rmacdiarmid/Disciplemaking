@@ -1,6 +1,6 @@
 ![DMCOHORT](http://jackasstheology.com/wp-content/uploads/2019/05/DMcohor_BLK.png)
 
-# Cohorts Are More Helpful Than Conferences
+# Cohorts Better Than Conferences?
 As a leadership team we have participated in dozens of conferences. The best ones bring challenging ideas, excitement, and inspiration. The conferences attract expceptional leaders and thinkers, whose churches tend to be in the thousands and whose platforms tend can be in the millions. While all this is impressive. We have personally found that it isn't as lastiningly helpful as building on going relationships with leaders who are struggling to implement real disciplemaking tools into their everyday context. There is no one size fits all plan. Every context is different, and every ministry commissioned to unique expressions. But we all need accountability, we all need to get unstuck, we all need a push to develop our systems so that we do not simply resort to preaching centers, but actually become disciplemaking movements. It's not easy. No one can do the work for you, but we can process it together. That is what is different about the Cohort Model. From it, you get relationships, friends, commrades and tools that will shift the core of your ministry.
 
 # Why is Disciplemaking so Hard?
