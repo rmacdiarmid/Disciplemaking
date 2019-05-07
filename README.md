@@ -4,9 +4,20 @@ You can use the [editor on GitHub](https://github.com/rmacdiarmid/dmcohort/edit/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-# Interest List
+# Intrest List
 If you are interested in the cohort and would like more information. [Click here.](www.jackasstheology.com)
 
+
+# Trainers
+
+## Shane Stacey
+Shane is the co-creator of Building a Disciplemaking Culture Cohort and has led over two dozen churches through the process. He has served to bring a disciple-multiplying focus to teams on a local church level as well as on a national level where he helped hundreds of church leaders refocus their lives and ministries to fulfill the great commission. Shane is also certified God Dreams Network Navigator with Auxano and a Multiplying Trainer with Life Younique: Gospel Centered Life Design Process. Shane currently serves as Adult Equipping Pastor at [Hosanna Church](https://www.hosannalc.org) a multi-site church in Lakeville, MN. 
+
+## Ryan MacDiarmid
+Ryan is the lead pastor of [Creekside Church](https://www.creeksideonline.com) in Rocklin, CA. Over the past 5 years, Creekside has transitioned from a traditional small group modeled church to a missional community model. The transition required strategic shifts in how we training and equip lay-leaders for ministry. They have also implemented replicating disciple-making systems for the men and women of their church through program called TWELVE. Ryan found tremendous support and encouragement through the EFCA cohorts and is excited to carry them on to more pastors who desire new and more effective systems for disciple-making. Ryan also founded (with Mark Beuving) and regularly contributes to the blog [jackasstheology.com](https://www.jackasstheology.com)
+
+## West Brazelton
+West is the planting pastor of [Grace Bible Church](https://www.gbchouston.org/) (GBC) in Houston, Texas. GBC is 15 years old and has developed a small group model that has been effective in equipping participants to make disciples. The church currently has 1500 people participating in these disciple making small groups. West has also been a leader in the Bonhoeffer Project, which is a network of cohorts created by Bill Hull. These cohorts are designed to help pastors develop churches that effectively make disciple and multiply disciples of Jesus. 
 
 
 ### Markdown
