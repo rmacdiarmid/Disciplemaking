@@ -65,6 +65,9 @@ West is the planting pastor of [Grace Bible Church](https://www.gbchouston.org/)
 # Testimonials
 
 ## Some Dude
+_"This was not just another seminar. It was truly a training that equipped our team to implement systems and structures we developed and owned. I've never experience such a practical outcome." - Ben Brandt, Associate Pastor, Park Community Church, MN_
+
+_"If you're looking to do real work where you't be guided and pushed to make real plans, develop real toos, and begin to implement strategies and structures in your church, then this is exactly what you need." - Mark Beuving Associate Pastor, Creekside Church, CA_
 
 ## Some Dudette
 
