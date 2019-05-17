@@ -43,7 +43,7 @@ In texas we will stay on a beutiful ranch. We will play pickle ball, shoot guns,
 - April 9, Thursday, 3:00-5:00pm 
 ```
 
-# Intrest List
+# Interest List
 If you are interested in the cohort and would like more information. [Click here.](www.jackasstheology.com)
 
 
@@ -66,12 +66,10 @@ West is the planting pastor of [Grace Bible Church](https://www.gbchouston.org/)
 
 # Testimonials
 
-## Some Dude
 _"This was not just another seminar. It was truly a training that equipped our team to implement systems and structures we developed and owned. I've never experience such a practical outcome." - Ben Brandt, Associate Pastor, Park Community Church, MN_
 
 _"If you're looking to do real work where you't be guided and pushed to make real plans, develop real toos, and begin to implement strategies and structures in your church, then this is exactly what you need." - Mark Beuving Associate Pastor, Creekside Church, CA_
 
-## Some Dudette
 
 # Images of Cohort
 <img src="http://jackasstheology.com/wp-content/uploads/2019/05/cohort_3.jpg" width="70%">
