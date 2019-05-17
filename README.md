@@ -74,11 +74,11 @@ _"If you're looking to do real work where you't be guided and pushed to make rea
 ## Some Dudette
 
 # Images of Cohort
-<img src="http://jackasstheology.com/wp-content/uploads/2019/05/DM-Pic-Abode.jpg" width="30%">
+<img src="http://jackasstheology.com/wp-content/uploads/2019/05/cohort_3.jpg" width="70%">
 
-<img src="http://jackasstheology.com/wp-content/uploads/2019/05/IMG_1304.jpg" width="30%">
+<img src="http://jackasstheology.com/wp-content/uploads/2019/05/cohort_2.jpg" width="70%">
 
-<img src="http://jackasstheology.com/wp-content/uploads/2019/05/IMG_5917.jpg" width="30%">
+<img src="http://jackasstheology.com/wp-content/uploads/2019/05/cohort_1.jpg" width="70%">
 
 
 -------------------------
